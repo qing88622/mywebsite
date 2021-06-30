@@ -1,0 +1,121 @@
+* {
+  /*border: solid 1px;*/
+  font-family:微軟正黑體;
+  color:#706F6F;
+}
+html,body{
+  max-width:100%;
+  margin: auto;
+}
+html{
+  /*border:red solid 2px;*/
+}
+
+.button {
+  display: inline-block;
+  padding: 30px;
+  padding-right: 45px;
+  padding-left: 45px;
+  background-color: #5C6C8D;
+  color: white;
+  font-family: 微軟正黑體;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-size:20px;
+}
+.button:hover {
+  background-color: #a67563;
+}
+.top_ul {
+  background-color: #5C6C8D;
+  margin-top:30px;
+
+}
+.page1{
+  /width:100%;
+  height:750px;
+  border: #DCC189 2px solid;
+  max-width:100%;
+  margin: auto;
+  background-color:#DCC189;
+}
+.namecard {
+  background-color:white;
+  width: 420px;
+  height: 230px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 130px;
+  border-radius:10px;
+  box-shadow:10px 20px 15px -10px rgba(0,0,0,0.15);
+}
+
+.namecard h2 {
+  font-size: 35px;
+  letter-spacing:3px;
+}
+
+.namecard h2 span {
+  font-size: 25px;
+  padding-left:10px;
+}
+.namecard h5{
+  padding-top:22px;
+  font-size:20px;
+  color:#5C6C8D;
+  letter-spacing:4px;
+}
+
+.namecard p{
+  margin-top:18px;
+  font-size:16px;
+  font-weight:500;
+  letter-spacing:4px;
+  line-height:22px;
+  color:#A7988B;
+}
+
+.pp2 h2{
+	padding:20px;
+	text-align:center;
+	letter-spacing:4px;
+	line-height:80px;
+	
+}
+
+.page_21{
+  display: inline-block;
+  margin-left:220px;
+  position:relative;
+  z-index:999;
+}
+
+.page_22{
+	width:540px;
+  height:280px;
+  display: inline-block;
+  background-color:#A7988B;
+  border-radius:5px;
+  
+  position:relative;
+  left:-30px;
+  top:-60px;
+  padding-left:100px;
+  padding-right:100px;
+  /margin-left:60px;
+  
+  
+}
+.page_22 p{
+  
+  color:white;
+  padding:20px;
+  letter-spacing:3px;
+  
+}
+.pp2{
+  background-color:#E9E1D5;
+  height:auto;
+  
+}
